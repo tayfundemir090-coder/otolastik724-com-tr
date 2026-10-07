@@ -1,0 +1,28 @@
+# Balıkesir Lastikçi
+
+> Balıkesir Altıeylül Gümüşçeşme Mahallesi'nde hizmet veren lastikçi. Yaz, kış ve dört mevsim lastik satışı; lastik değişimi ve montajı, balans ayarı, lastik tamiri ve lastik kontrolü yapar.
+
+## Temel bilgiler
+
+- İşletme adı: Balıkesir Lastikçi
+- Adres: Gümüşçeşme Mahallesi Faruk Kula Caddesi No:49, Altıeylül / Balıkesir
+- Telefon / WhatsApp: +90 542 134 02 39
+- Hizmet bölgesi: Balıkesir merkez; Altıeylül ve Karesi (Gümüşçeşme, Plevne, Bahçelievler, Gaziosmanpaşa, Paşaalanı, Dinkçiler, Atatürk, Hasan Basri Çantay)
+- Hizmetler: Lastik satışı (yaz, kış, dört mevsim), lastik değişimi ve montajı, mevsimlik lastik değişimi, balans ayarı, lastik tamiri, lastik kontrolü
+- Araç tipleri: Binek, SUV, hafif ticari
+- Web: https://balkeslastik.com.tr/
+
+## Sayfalar
+
+- [Anasayfa](https://balkeslastik.com.tr/): Hizmetler, süreç, hakkımızda, hizmet bölgeleri, sık sorulan sorular ve iletişim tek sayfada.
+- [Hizmetler](https://balkeslastik.com.tr/#hizmetler): Lastik satışı, değişimi, balans, tamir ve kontrol.
+- [Hakkımızda](https://balkeslastik.com.tr/#hakkimizda): Altıeylül Gümüşçeşme'deki lastik dükkânı.
+- [Hizmet bölgeleri](https://balkeslastik.com.tr/#bolgeler): Balıkesir merkez mahalleleri.
+- [Sık sorulan sorular](https://balkeslastik.com.tr/#sss): Tamir/değişim kararı, lastik ebadı, montaj-balans, kış lastiği, fiyat.
+- [İletişim](https://balkeslastik.com.tr/#iletisim): Telefon, WhatsApp, adres ve talep formu.
+- [KVKK Aydınlatma Metni](https://balkeslastik.com.tr/kvkk.html)
+- [Gizlilik ve Çerez Politikası](https://balkeslastik.com.tr/gizlilik-politikasi.html)
+
+## Ek
+
+- [Tam içerik (llms-full.txt)](https://balkeslastik.com.tr/llms-full.txt): Sitedeki metnin tamamı tek dosyada.

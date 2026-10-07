@@ -1,0 +1,4 @@
+# Ham kaynak fotoğraflar (sitede AVIF sürümleri kullanılıyor)
+assets/img/*.png
+assets/img/*.jpeg
+!assets/img/og-image.jpg
