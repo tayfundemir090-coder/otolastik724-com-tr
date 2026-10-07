@@ -10,19 +10,19 @@
 - Hizmet bölgesi: Balıkesir merkez; Altıeylül ve Karesi (Gümüşçeşme, Plevne, Bahçelievler, Gaziosmanpaşa, Paşaalanı, Dinkçiler, Atatürk, Hasan Basri Çantay)
 - Hizmetler: Lastik satışı (yaz, kış, dört mevsim), lastik değişimi ve montajı, mevsimlik lastik değişimi, balans ayarı, lastik tamiri, lastik kontrolü
 - Araç tipleri: Binek, SUV, hafif ticari
-- Web: https://balkeslastik.com.tr/
+- Web: https://otolastik724.com.tr/
 
 ## Sayfalar
 
-- [Anasayfa](https://balkeslastik.com.tr/): Hizmetler, süreç, hakkımızda, hizmet bölgeleri, sık sorulan sorular ve iletişim tek sayfada.
-- [Hizmetler](https://balkeslastik.com.tr/#hizmetler): Lastik satışı, değişimi, balans, tamir ve kontrol.
-- [Hakkımızda](https://balkeslastik.com.tr/#hakkimizda): Altıeylül Gümüşçeşme'deki lastik dükkânı.
-- [Hizmet bölgeleri](https://balkeslastik.com.tr/#bolgeler): Balıkesir merkez mahalleleri.
-- [Sık sorulan sorular](https://balkeslastik.com.tr/#sss): Tamir/değişim kararı, lastik ebadı, montaj-balans, kış lastiği, fiyat.
-- [İletişim](https://balkeslastik.com.tr/#iletisim): Telefon, WhatsApp, adres ve talep formu.
-- [KVKK Aydınlatma Metni](https://balkeslastik.com.tr/kvkk.html)
-- [Gizlilik ve Çerez Politikası](https://balkeslastik.com.tr/gizlilik-politikasi.html)
+- [Anasayfa](https://otolastik724.com.tr/): Hizmetler, süreç, hakkımızda, hizmet bölgeleri, sık sorulan sorular ve iletişim tek sayfada.
+- [Hizmetler](https://otolastik724.com.tr/#hizmetler): Lastik satışı, değişimi, balans, tamir ve kontrol.
+- [Hakkımızda](https://otolastik724.com.tr/#hakkimizda): Altıeylül Gümüşçeşme'deki lastik dükkânı.
+- [Hizmet bölgeleri](https://otolastik724.com.tr/#bolgeler): Balıkesir merkez mahalleleri.
+- [Sık sorulan sorular](https://otolastik724.com.tr/#sss): Tamir/değişim kararı, lastik ebadı, montaj-balans, kış lastiği, fiyat.
+- [İletişim](https://otolastik724.com.tr/#iletisim): Telefon, WhatsApp, adres ve talep formu.
+- [KVKK Aydınlatma Metni](https://otolastik724.com.tr/kvkk.html)
+- [Gizlilik ve Çerez Politikası](https://otolastik724.com.tr/gizlilik-politikasi.html)
 
 ## Ek
 
-- [Tam içerik (llms-full.txt)](https://balkeslastik.com.tr/llms-full.txt): Sitedeki metnin tamamı tek dosyada.
+- [Tam içerik (llms-full.txt)](https://otolastik724.com.tr/llms-full.txt): Sitedeki metnin tamamı tek dosyada.
